@@ -1,0 +1,6 @@
+git clone :pour cloner un repository 
+
+les 3 commandes de push:
+git push origin main
+git push --all origin
+git push --tags origine
